@@ -1,0 +1,24 @@
+{
+  "name": "2017-1",
+  "version": "0.0.1",
+  "description": "Learning to make node servers",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pjcolino/2017-1.git"
+  },
+  "keywords": [
+    "learn",
+    "node",
+    "server"
+  ],
+  "author": "Peterjohn Colino",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pjcolino/2017-1/issues"
+  },
+  "homepage": "https://github.com/pjcolino/2017-1#readme"
+}
